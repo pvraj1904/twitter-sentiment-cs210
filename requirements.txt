@@ -1,0 +1,9 @@
+tweepy
+pandas
+pymongo
+streamlit
+vaderSentiment
+python-dotenv
+nltk
+plotly
+langdetect
